@@ -2,6 +2,8 @@
 
 Hier sind eine Libre Base Datenbank für die Erstellung von Rechnungen und ein Libre Calc Sheet für das Eintragen von Zeiten zu finden.
 
+Die kostenfreie Software Libre Office für das Ausführen der Dateien ist frei zum Downloaden und Nutzen z.B. über Google einfach zu finden.
+
 Besonders geeignet für die Abrechnung von Personalleistungen.
 
 Lauffähig unter Linux, macOS und Windows.
